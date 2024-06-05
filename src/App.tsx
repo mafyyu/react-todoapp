@@ -9,7 +9,7 @@ function App() {
     <>
       <Container>
         <Heading>
-          todoapp
+          ToDoApp
         </Heading>
         <HStack
         gap={0}>
