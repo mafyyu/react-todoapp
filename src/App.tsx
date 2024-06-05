@@ -8,7 +8,8 @@ function App() {
   return (
     <>
       <Container>
-        <Heading>
+        <Heading
+        color={"red"}>
           ToDoApp
         </Heading>
         <HStack
